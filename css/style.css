@@ -1,0 +1,40 @@
+body{
+    font: 20px arial;
+  
+}
+.margin{
+    padding-top: 55px;
+    
+}
+/* nav class */
+.nav-link{
+    color:black;
+}
+
+.color{
+    background-color: #DF01D7;
+}
+/* end nav bar */
+
+/* primeiro container */
+#about_us{
+    background-color: #E0E0F8;
+}
+
+
+.gif{
+    border-radius: 10%;
+    border: black;
+    border-style: solid;
+}
+p{
+    padding: 5px;
+}
+/* primeiro container */
+
+/* segundo container */
+#momentos{
+    background-color: #E0E0F8;
+}
+
+/* segundo container */
