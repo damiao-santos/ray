@@ -1,12 +1,19 @@
-body{
-    background-image: url("/img/amor-coracoes-wallpaper.jpg");
-}
-
-.container{
-background-image: linear-gradient(115deg, rgba(145, 29, 29, 0.5), rgba(145, 29, 39, 0.5),rgba(145, 29, 29, 0.5),  rgba(255, 0, 21, 0.5)), url(/img/amor-coracoes-wallpaper.jpg);
+body::before{
+    content: '';
+  position: fixed;
+  color: white;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+background: var(--color-darkblue);
+background-image: url("/projetos/ray/img/amor-coracoes-wallpaper.jpg");
 background-size: cover;
-background-repeat: no-repeat;
-background-position: center;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.container{
+
+color: white;
 }
 
 /* Classes globais */
