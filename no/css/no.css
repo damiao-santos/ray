@@ -1,0 +1,21 @@
+body{
+background-image: url("https://images.freeimages.com/images/large-previews/a3d/broken-heart-brush-1637382.jpg");
+background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+#master{
+    color: white;
+}
+
+#secondary{
+    color: white;
+    padding-top: 50px;
+}
+.color{
+    background-color: #00FF00;
+}
+.color:hover{
+    background-color: #04B404;
+}
