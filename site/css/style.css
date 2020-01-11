@@ -1,9 +1,21 @@
-body{
-    font: 20px arial;
-  
+
+main{
+    content: '';
+  position: relative;
+  color: black;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  z-index: 1;
+background: var(--color-darkblue);
+background-image: url("https://previews.123rf.com/images/portarefortuna/portarefortuna1212/portarefortuna121200029/16968743-love-seamless-pattern-white-hearts-and-swirls-on-pink-background.jpg");
+background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .margin{
-    padding-top: 55px;
+    padding-top: 30px;
    
 }
 .margin-slide{
@@ -29,18 +41,31 @@ body{
 }
 
 .color{
+    font-family: 'Lobster', cursive;
     background-color: #DF01D7;
+    font-size: 20px;
 }
 /* end nav bar */
 
+h3, nav{
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+}
+p, h5{
+    font-family: 'Abel', sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+}
+
 /* primeiro container */
 #about_us{
-    background-color: #E0E0F8;
+    background-color: rgba(224, 224, 248, 0.6);
+    
 }
 
 
 .gif{
-    border-radius: 10%;
+    border-radius: 50%;
     border: black;
     border-style: solid;
 }
@@ -51,7 +76,7 @@ p{
 
 /* segundo container */
 #momentos{
-    background-color: #E0E0F8;
+    background-color: rgba(224, 224, 248, 0.6);
 }
 
 /* segundo container */
