@@ -59,6 +59,7 @@ p, h5{
     font-family: 'Abel', sans-serif;
     font-weight: 600;
     font-size: 22px;
+    padding-top: 15px;
 }
 
 /* primeiro container */
@@ -74,7 +75,7 @@ p, h5{
     border-style: solid;
 }
 p{
-    padding: 5px;
+    
 }
 /* primeiro container */
 
