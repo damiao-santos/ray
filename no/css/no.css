@@ -19,3 +19,8 @@ background-size: cover;
 .color:hover{
     background-color: #04B404;
 }
+#you{
+    border-color: white;
+    border-radius: 10%;
+    border-style: solid;
+}

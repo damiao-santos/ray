@@ -21,6 +21,10 @@ background-size: cover;
 .margin-slide{
     margin-top: 50px;
 }
+.margin2018{
+    padding-top: 30px;
+   padding-bottom: 30px;
+}
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -74,8 +78,12 @@ p{
 }
 /* primeiro container */
 
-/* segundo container */
 #momentos{
+    background-color: rgba(224, 224, 248, 0.6);
+}
+
+/* segundo container */
+#momentos2018{
     background-color: rgba(224, 224, 248, 0.6);
 }
 
