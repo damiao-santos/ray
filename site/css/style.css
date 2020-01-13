@@ -78,10 +78,14 @@ p{
 
 .gif{
     border-radius: 50%;
-    border: black;
+    border: white;
     border-style: solid;
 }
 
+.borda{
+    border: white;
+    border-style: solid;
+}
 /* primeiro container */
 
 
