@@ -1,4 +1,15 @@
-
+.footer p{
+    font-family: 'Lobster Two', cursive;
+    background-image: linear-gradient(115deg, rgba(255, 255, 208, 0.9), rgba(245, 169, 208, 0.9), rgba(245, 169, 208, 0.9), rgba(245, 169, 208, 0.9), rgba(255, 255, 208, 0.9));
+    font-size: 25px;    
+    text-align: end;
+}
+.color{
+    font-family: 'Lobster Two', cursive;
+    background-color: #F5A9D0;
+    font-size: 20px;
+    color: black;
+}
 main{
     content: '';
   position: relative;
@@ -44,22 +55,22 @@ background-size: cover;
     color:black;
 }
 
-.color{
-    font-family: 'Lobster', cursive;
-    background-color: #F5A9D0;
-    font-size: 20px;
-}
+
+
 /* end nav bar */
 
-h3, nav{
-    font-family: 'Lobster', cursive;
-    font-size: 25px;
+h3{
+    font-family: 'Lobster Two', cursive;
+    font-size: 30px;
 }
 p, h5{
     font-family: 'Abel', sans-serif;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 22px;
     padding-top: 15px;
+}
+p{
+    text-align: left;
 }
 
 /* primeiro container */
